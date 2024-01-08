@@ -15,4 +15,4 @@ The way the main function works is it takes our specifications set for viewport/
 
 # Works Cited
 Ray Tracing in One Weekend. raytracing.github.io/books/RayTracingInOneWeekend.html
-Accessed 01 08. 2023.
+Accessed 01 Aug. 2023.
