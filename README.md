@@ -10,3 +10,9 @@ The implementation of the cylinder class follows relatively closely to the spher
 I have included in the repository both the image generated using Peter Shirley's world generation which is titled BookImg.png and the image created using my world generation and personal spin on the code, FinalImage.png.
 
 The way the main function works is it takes our specifications set for viewport/camera position/depth/number of rays/aspect ratio and runs nested for loops to calculate the color at each pixel using our preset number of rays per pixel as well as depth of each ray. This all outputs to a PPM file which can be viewed using any standard PPM viewer.
+
+
+
+# Works Cited
+Ray Tracing in One Weekend. raytracing.github.io/books/RayTracingInOneWeekend.html
+Accessed 01 08. 2023.
